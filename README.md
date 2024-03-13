@@ -1,6 +1,6 @@
 # GeoCT2Model
 
 Part of results are presented below:
-![image](https://github.com/Kyle-RuidongLI/OpenSource-GEO/Picture1.png)
+![Picture1](https://github.com/Kyle-RuidongLI/OpenSource-GEO/Picture1.png)
 
-![image](https://github.com/Kyle-RuidongLI/OpenSource-GEO/Picture2.png)
+![Picture2](https://github.com/Kyle-RuidongLI/OpenSource-GEO/Picture2.png)
