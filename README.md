@@ -21,28 +21,28 @@ ProjectName and Description
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">OpenSource-GEO</h3>
   <p align="center">
     a repository for sharing open-source geotechnical techniques enhanced by AI
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/Kyle-RuidongLI/OpenSource-GEO"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
+    <a href="https://github.com/Kyle-RuidongLI/OpenSource-GEO">查看Demo</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/Kyle-RuidongLI/OpenSource-GEO/issues">报告Bug</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    <a href="https://github.com/Kyle-RuidongLI/OpenSource-GEO/issues">提出新特性</a>
   </p>
 
 </p>
-
+https://github.com/Kyle-RuidongLI/OpenSource-GEO
 
  本篇README.md面向开发者
  
 ## OUTLINE
 
-- [上手指南](#上手指南)
+- [3D Grain Reconstruction](#上手指南)
   - [开发前的配置要求](#开发前的配置要求)
   - [安装步骤](#安装步骤)
 - [文件目录说明](#文件目录说明)
@@ -55,7 +55,7 @@ ProjectName and Description
 - [作者](#作者)
 - [鸣谢](#鸣谢)
 
-### 上手指南
+### 3D Grain Reconstruction
 
 请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
 
