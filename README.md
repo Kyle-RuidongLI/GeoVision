@@ -23,7 +23,7 @@ ProjectName and Description
 
   <h3 align="center">"完美的"README模板</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    a repository for sharing open-source geotechnical techniques enhanced by AI
     <br />
     <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
     <br />
@@ -40,7 +40,7 @@ ProjectName and Description
 
  本篇README.md面向开发者
  
-## 目录
+## OUTLINE
 
 - [上手指南](#上手指南)
   - [开发前的配置要求](#开发前的配置要求)
