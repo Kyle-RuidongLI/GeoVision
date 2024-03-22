@@ -8,6 +8,7 @@
 
 <img src="Picture1.png?raw=true" width="100%" />
   <img src="Picture2.png?raw=true" width="100%" /> 
+    <img src="Picture3.png?raw=true" width="100%" /> 
 </p>
 
 ## Getting Started
