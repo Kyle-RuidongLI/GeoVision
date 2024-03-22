@@ -1,6 +1,6 @@
 # Reconstruct Arbitrary Granular Materials
 
-**[GeoInvention AI Research](https://geoinvention.com/)**
+**[GeoInvention AI Research](https://geoinvention.com)**
 
 [Ruidong LI](https://github.com/Kyle-RuidongLI/), Zhenyu YIN
 
