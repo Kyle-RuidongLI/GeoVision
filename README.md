@@ -27,10 +27,6 @@ Will be available upon reasonable request
 
 The model is licensed under the [Apache 2.0 license](LICENSE).
 
-## Contributing
-
-See [contributing](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
-
 ## Contributors
 
 This project was made possible with the help of many contributors (alphabetical):
