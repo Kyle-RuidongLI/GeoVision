@@ -5,3 +5,4 @@ scikit-image
 pot
 timm
 PyMCubes
+pyvista
