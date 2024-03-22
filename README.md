@@ -16,7 +16,7 @@ First git the repository. Then create a new conda environment and install essent
 
 ```
 conda create -n GeoGrain python==3.10
-pip install requirement.txt
+pip install requirements.txt
 ```
 
 ## Dataset
