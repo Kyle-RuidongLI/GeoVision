@@ -6,8 +6,8 @@
 
 ## Results
 
-<img src="assets/Picture1.png?raw=true" width="37.25%" />
-  <img src="assets/Picture2.png?raw=true" width="61.5%" /> 
+<img src="Picture1.png?raw=true" width="37.25%" />
+  <img src="Picture2.png?raw=true" width="61.5%" /> 
 </p>
 
 ## Getting Started
