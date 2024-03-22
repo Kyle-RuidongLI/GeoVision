@@ -4,11 +4,7 @@
 
 [Ruidong LI](https://github.com/Kyle-RuidongLI/), Zhenyu YIN
 
-## Schematic Diagram
-
-![SAM design](assets/model_diagram.png?raw=true)
-
-<p float="left">
+## Results
 
 <img src="assets/Picture1.png?raw=true" width="37.25%" />
   <img src="assets/Picture2.png?raw=true" width="61.5%" /> 
@@ -45,4 +41,3 @@ Ruidong LI, Zhenyu YIN
 
 If you use our algortihms in your research, please use the following BibTeX entry.
 
-```
