@@ -16,7 +16,7 @@
 First git the repository. Then create a new conda environment and install essential packages:
 
 ```
-conda create -n GeoGrain python==3.10
+conda create -n GeoNova python==3.10
 pip install requirements.txt
 ```
 
