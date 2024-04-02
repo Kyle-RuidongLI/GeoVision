@@ -1,4 +1,4 @@
-# Reconstruct Arbitrary Granular Materials
+# GeoNova: A Pioneering Framework for 3D Reconstruction of Arbitrary Granular Media
 
 **[GeoInvention AI Research](https://geoinvention.com)**
 
