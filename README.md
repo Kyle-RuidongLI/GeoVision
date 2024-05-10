@@ -1,4 +1,4 @@
-# GeoNova: A Pioneering Framework for 3D Reconstruction of Arbitrary Granular Media
+# GeoVision: A Pioneering Framework for 3D Reconstruction of Arbitrary Granular Media
 
 **[GeoInvention AI Research](https://geoinvention.com)**
 
