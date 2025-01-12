@@ -34,14 +34,6 @@ Ruidong LI, Zhen-Yu YIN, Shao-Heng HE
 
 ## Citation
 
-If you use our algortihms in your research, please use the following BibTeX entry.
-@article{ruidong20253d,
-  title={3D reconstruction of arbitrary granular media utilizing vision foundation model},
-  author={Ruidong, LI and Zhen-Yu, YIN and Shao-Heng, HE},
-  journal={Applied Soft Computing},
-  volume={169},
-  pages={112599},
-  year={2025},
-  publisher={Elsevier}
-}
+If you use our algortihms in your research, please cite following papers:
+[1] Ruidong, L.I., Zhen-Yu, Y.I.N. and Shao-Heng, H.E., 2025. 3D reconstruction of arbitrary granular media utilizing vision foundation model. Applied Soft Computing, 169, p.112599. https://doi.org/10.1016/j.asoc.2024.112599
 
