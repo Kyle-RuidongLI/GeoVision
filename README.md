@@ -1,8 +1,6 @@
-# GeoVision: A Pioneering Framework for 3D Reconstruction of Arbitrary Granular Media
+# GeoVision: 3D reconstruction of arbitrary granular media utilizing vision foundation model
 
-**[GeoInvention AI Research](https://geoinvention.com)**
-
-[Ruidong LI](https://github.com/Kyle-RuidongLI/), Zhenyu YIN
+[Ruidong LI](https://github.com/Kyle-RuidongLI/), Zhen-Yu YIN, Shao-Heng HE
 
 ## Results
 
@@ -16,7 +14,7 @@
 First git the repository. Then create a new conda environment and install essential packages:
 
 ```
-conda create -n GeoNova python==3.10
+conda create -n GeoVision python==3.10
 pip install requirements.txt
 ```
 
@@ -32,9 +30,18 @@ The model is licensed under the [Apache 2.0 license](LICENSE).
 
 This project was made possible with the help of many contributors (alphabetical):
 
-Ruidong LI, Zhenyu YIN
+Ruidong LI, Zhen-Yu YIN, Shao-Heng HE
 
 ## Citation
 
 If you use our algortihms in your research, please use the following BibTeX entry.
+@article{ruidong20253d,
+  title={3D reconstruction of arbitrary granular media utilizing vision foundation model},
+  author={Ruidong, LI and Zhen-Yu, YIN and Shao-Heng, HE},
+  journal={Applied Soft Computing},
+  volume={169},
+  pages={112599},
+  year={2025},
+  publisher={Elsevier}
+}
 
